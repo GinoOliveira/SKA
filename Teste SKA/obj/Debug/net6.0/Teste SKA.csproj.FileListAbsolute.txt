@@ -1,0 +1,30 @@
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\bin\Debug\net6.0\appsettings.json
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\bin\Debug\net6.0\Teste SKA.staticwebassets.runtime.json
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\bin\Debug\net6.0\Teste SKA.exe
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\bin\Debug\net6.0\Teste SKA.deps.json
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\bin\Debug\net6.0\Teste SKA.runtimeconfig.json
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\bin\Debug\net6.0\Teste SKA.dll
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\bin\Debug\net6.0\Teste SKA.pdb
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.AssemblyInfoInputs.cache
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.AssemblyInfo.cs
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.RazorAssemblyInfo.cache
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.RazorAssemblyInfo.cs
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\staticwebassets\msbuild.Teste SKA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\staticwebassets\msbuild.build.Teste SKA.props
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Teste SKA.props
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Teste SKA.props
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\scopedcss\bundle\Teste SKA.styles.css
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\scopedcss\projectbundle\Teste SKA.bundle.scp.css
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.dll
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\refint\Teste SKA.dll
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.pdb
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\Teste SKA.genruntimeconfig.cache
+C:\Users\Anonymous\source\repos\Teste SKA\Teste SKA\obj\Debug\net6.0\ref\Teste SKA.dll

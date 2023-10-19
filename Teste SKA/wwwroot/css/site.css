@@ -1,0 +1,87 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#divBody {
+    background-color: #352F5B;
+    width: 100%;
+    height: auto;
+}
+    #divBody ul {
+    }
+
+#divInput {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    color: #fff;
+}
+    #divInput input {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5px;
+        padding: 10px;
+        height: 50px;
+        border-radius: 5px;
+        border: none;
+        background-color: #2A2649;
+        border-style: none;
+        color: #fff;
+        border-style: none;
+        outline: 0;
+    }
+    #divInput img{
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+        margin-left: 20px;
+    }
+
+    #divTask {
+        background-color: #423A6F;
+        height: 50px;
+        list-style: none;
+        color: #fff;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5px;
+        padding: 10px;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        display: flex;
+        justify-content: space-between
+    }
+        #divTask input {
+           margin-right: 10px;
+        }
+        #divTask img {
+            width: 30px;
+            height: 30px;
+            cursor: pointer;
+
+        }
+input:checked {
+    width: 20px;
+    height: 20px;
+    background-color: greenyellow;
+}
+
+#divForm label{
+    display: block;
+}
+
